@@ -1,0 +1,7 @@
+{
+  "name": "HomeServe Pro -mo",
+  "description": "The ultimate home services booking platform in Egypt. Professional, reliable, and guaranteed plumbing, electrical, and AC maintenance at your fingertips.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
